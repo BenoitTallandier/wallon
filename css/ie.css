@@ -1,0 +1,25 @@
+.entry-item .thumb-icon:before {
+        padding-right: 0px;
+}
+.main-menu > li > a > span{
+	display: none;
+}
+.kopa-header-left > span{
+	right: -10.5px;
+	border-right-width: 11px;
+}
+.kopa-header-bottom  .kopa-main-nav .main-menu > li > a > span{
+    transform:none;
+    background:none;
+    position: absolute;
+    border-left: 0px solid transparent;
+    border-right: 32px solid transparent;
+    border-top: 60px solid #383838;
+    bottom: 0;
+    left:auto;
+    margin-left: 0px;
+    right:100%;
+    margin-left: 0px;
+    top:auto;
+    width:auto;
+}

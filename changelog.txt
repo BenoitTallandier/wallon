@@ -1,0 +1,34 @@
+///////////////////////////////////////////
+    Garajez theme - Change log
+///////////////////////////////////////////
+#1.0.9
+    * Update image screenshot
+
+#1.0.6
+    * Fix bug construct() in Kopa_Widget class
+    * Add recommend plugin kopa framework
+
+#1.0.4
+    * Change text domain to garajez-lite
+    * Remove file masonry.pkgd.js. Using Masonry in WordPress core
+    * Double check escaped output data
+    * Remove some unused images in images/layouts directory
+    * Add images licenses in readme.txt
+    * Update language file
+#1.0.3
+    * Update css for: main menu, paginated single posts
+    * Add archive title
+#1.0.2
+    * Escaped output data
+    * Add required CSS for screen-reader-text in /css/extra.css
+    * Fix css for Gravatar thumbnail for author in post detail
+    * Add reference to add_theme_support( "title-tag" )
+    * Add reference to add_theme_support( "custom-header", $args )
+    * Add reference to add_editor_style()
+#1.0.1
+    * Fixed have 2 <title> tags in the <head>
+    * Replace @import in style.css by wp_enqueue_style
+    * Remove a placeholder image if no featured image is uploaded on archive and single post
+    * Update some css
+#1.0.0 ( 2014/12/03 )
+[INIT] Theme release !!!
